@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b562d788.chunk.css",
+    "main.js": "/static/js/main.b7e5f03b.chunk.js",
+    "main.js.map": "/static/js/main.b7e5f03b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.24fec9ba.js",
+    "runtime-main.js.map": "/static/js/runtime-main.24fec9ba.js.map",
+    "static/js/2.745d1b47.chunk.js": "/static/js/2.745d1b47.chunk.js",
+    "static/js/2.745d1b47.chunk.js.map": "/static/js/2.745d1b47.chunk.js.map",
+    "static/js/3.4ff92275.chunk.js": "/static/js/3.4ff92275.chunk.js",
+    "static/js/3.4ff92275.chunk.js.map": "/static/js/3.4ff92275.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.b562d788.chunk.css.map": "/static/css/main.b562d788.chunk.css.map",
+    "static/js/2.745d1b47.chunk.js.LICENSE.txt": "/static/js/2.745d1b47.chunk.js.LICENSE.txt",
+    "static/media/jashna.44ddb71d.png": "/static/media/jashna.44ddb71d.png",
+    "static/media/jashna.4f10e767.mp3": "/static/media/jashna.4f10e767.mp3",
+    "static/media/saude_baji.2f92d82d.png": "/static/media/saude_baji.2f92d82d.png",
+    "static/media/saude_baji.bb95a501.mp3": "/static/media/saude_baji.bb95a501.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.24fec9ba.js",
+    "static/js/2.745d1b47.chunk.js",
+    "static/css/main.b562d788.chunk.css",
+    "static/js/main.b7e5f03b.chunk.js"
+  ]
+}
